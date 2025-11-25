@@ -1,0 +1,15 @@
+/* Integrate analytics tools Styles */
+
+.integrate_analytics_tools-container {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.integrate_analytics_tools-container h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+/* TODO: Add component-specific styles */
